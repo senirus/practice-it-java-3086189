@@ -4,6 +4,8 @@ public class Employee {
 
   public static void main(String[] args) {
 
+    System.out.println("Hello World");
+
     // Create a variable called age of type int and assign it the value 29.
 
     // Print the age variable to the console.
